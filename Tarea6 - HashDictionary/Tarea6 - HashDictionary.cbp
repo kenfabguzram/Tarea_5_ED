@@ -2,12 +2,12 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="Tarea_5_ED" />
+		<Option title="Tarea6 - HashDictionary" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/Tarea_5_ED" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/Tarea6 - HashDictionary" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -16,7 +16,7 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/Tarea_5_ED" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/Tarea6 - HashDictionary" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -32,8 +32,17 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="include/Dictionary.h" />
+		<Unit filename="include/HashTable.h" />
+		<Unit filename="include/KVPair.h" />
+		<Unit filename="include/LinkedList.h" />
+		<Unit filename="include/List.h" />
+		<Unit filename="include/Node.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
 			<lib_finder disable_auto="1" />
 		</Extensions>
 	</Project>

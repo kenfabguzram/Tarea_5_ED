@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1605727398 source:c:\users\mavil\onedrive - tec\cursos\ed\2020-2\tareas\tarea6 - hashdictionary\main.cpp
+	<iostream>
+	"include\HashTable.h"
+
+1605727565 c:\users\mavil\onedrive - tec\cursos\ed\2020-2\tareas\tarea6 - hashdictionary\include\hashtable.h
+	"Dictionary.h"
+	"KVPair.h"
+	"LinkedList.h"
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1538201399 c:\users\mavil\onedrive - tec\cursos\ed\2020-2\tareas\tarea6 - hashdictionary\include\dictionary.h
+	"List.h"
+
+1519404306 c:\users\mavil\onedrive - tec\cursos\ed\2020-2\tareas\tarea6 - hashdictionary\include\list.h
+
+1504912687 c:\users\mavil\onedrive - tec\cursos\ed\2020-2\tareas\tarea6 - hashdictionary\include\kvpair.h
+
+1585247511 c:\users\mavil\onedrive - tec\cursos\ed\2020-2\tareas\tarea6 - hashdictionary\include\linkedlist.h
+	"Node.h"
+	<stdexcept>
+	<iostream>
+
+1585247577 c:\users\mavil\onedrive - tec\cursos\ed\2020-2\tareas\tarea6 - hashdictionary\include\node.h
+	<cstdlib>
+
+1653530229 source:c:\users\kenda\onedrive\escritorio\estructuras de datos\tarea_5_ed\tarea5 - hashdictionary\main.cpp
+	<iostream>
+	"include\HashTable.h"
+
+1653553192 c:\users\kenda\onedrive\escritorio\estructuras de datos\tarea_5_ed\tarea5 - hashdictionary\include\hashtable.h
+	"Dictionary.h"
+	"KVPair.h"
+	"LinkedList.h"
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1653530230 c:\users\kenda\onedrive\escritorio\estructuras de datos\tarea_5_ed\tarea5 - hashdictionary\include\dictionary.h
+	"List.h"
+
+1653530230 c:\users\kenda\onedrive\escritorio\estructuras de datos\tarea_5_ed\tarea5 - hashdictionary\include\list.h
+
+1653530230 c:\users\kenda\onedrive\escritorio\estructuras de datos\tarea_5_ed\tarea5 - hashdictionary\include\kvpair.h
+
+1653551296 c:\users\kenda\onedrive\escritorio\estructuras de datos\tarea_5_ed\tarea5 - hashdictionary\include\linkedlist.h
+	"Node.h"
+	<stdexcept>
+	<iostream>
+
+1653530230 c:\users\kenda\onedrive\escritorio\estructuras de datos\tarea_5_ed\tarea5 - hashdictionary\include\node.h
+	<cstdlib>
+
+1653599024 source:c:\users\kenda\onedrive\escritorio\estructuras de datos\tarea_5_ed\tarea6 - hashdictionary\main.cpp
+	<iostream>
+	"time.h"
+	<windows.h>
+	"HashTable.h"
+	"Dictionary.h"
+
+1653594827 c:\users\kenda\onedrive\escritorio\estructuras de datos\tarea_5_ed\tarea6 - hashdictionary\hashtable.h
+	"Dictionary.h"
+	"KVPair.h"
+	"LinkedList.h"
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1653596919 c:\users\kenda\onedrive\escritorio\estructuras de datos\tarea_5_ed\tarea6 - hashdictionary\dictionary.h
+	"List.h"
+
+1653554519 c:\users\kenda\onedrive\escritorio\estructuras de datos\tarea_5_ed\tarea6 - hashdictionary\list.h
+
+1653590984 c:\users\kenda\onedrive\escritorio\estructuras de datos\tarea_5_ed\tarea6 - hashdictionary\kvpair.h
+
+1653588830 c:\users\kenda\onedrive\escritorio\estructuras de datos\tarea_5_ed\tarea6 - hashdictionary\linkedlist.h
+	"Node.h"
+	<stdexcept>
+	<iostream>
+
+1653530230 c:\users\kenda\onedrive\escritorio\estructuras de datos\tarea_5_ed\tarea6 - hashdictionary\node.h
+	<cstdlib>
+
