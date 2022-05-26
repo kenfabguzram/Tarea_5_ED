@@ -32,17 +32,14 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="include/Dictionary.h" />
-		<Unit filename="include/HashTable.h" />
-		<Unit filename="include/KVPair.h" />
-		<Unit filename="include/LinkedList.h" />
-		<Unit filename="include/List.h" />
-		<Unit filename="include/Node.h" />
+		<Unit filename="Dictionary.h" />
+		<Unit filename="HashTable.h" />
+		<Unit filename="KVPair.h" />
+		<Unit filename="LinkedList.h" />
+		<Unit filename="List.h" />
+		<Unit filename="Node.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
-			<code_completion />
-			<envvars />
-			<debugger />
 			<lib_finder disable_auto="1" />
 		</Extensions>
 	</Project>
